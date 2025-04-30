@@ -1,4 +1,6 @@
 🎓 Student Enrollment & Outcome Predictor
+
+
 A machine learning-based application that analyzes historical student data to predict future enrollment trends and student academic outcomes. This project aims to assist academic institutions in planning, resource allocation, and early student intervention.
 
 🚀 Features
